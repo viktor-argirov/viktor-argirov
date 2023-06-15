@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viktor</h1>
-<h3 align="center">A passionate Developer, QA from Bulgaria </h3>
+<h3 align="center">A passionate Developer, QA </h3>
 
 - 🔭 I’m currently working on **Finding Alternance**
 
