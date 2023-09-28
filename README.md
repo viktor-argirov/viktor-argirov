@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Viktor</h1>
 <h3 align="center">A passionate Developer, QA </h3>
 
-- 🔭 I’m currently working on **Finding Alternance**
+- 🔭 I’m currently working in **Web Development**
 
 - 🌱 I’m currently learning **Developing in every detail**
-
-- 👯 I’m looking to collaborate on **New opportunities**
 
 - 📫 How to reach me **viktor.argirov@laplateforme.io**
 
