@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viktor</h1>
-<h3 align="center">A passionate Developer, QA </h3>
+<h3 align="center">A passionate Developer, ex QA </h3>
 
 - 🔭 I’m currently working in **Web Development**
 
@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I love gaming !**
 
-- Portfolio **https://viktor-argirov.students-laplateforme.io/portfolio/**
+- Portfolio **https://viktor-argirov.students-laplateforme.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
